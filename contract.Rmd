@@ -3,10 +3,10 @@ title: Grading Contract
 date: "`r format(Sys.time(), '%B %d %Y')`"
 output: github_document
 params:
-  weekonemonday: "2023-01-09"
-  thesisdeadline: "2023-01-10"
-  springbreak: "2023-01-10"
-  name: Tukey Cat
+  weekonemonday: "2025-01-13"
+  thesisdeadline: "2025-01-10"
+  springbreak: "2025-03-8 - 2025-03-16"
+  name: Ben Waggener
   labs: 11
   portfolios: 10
   grade:
@@ -104,7 +104,7 @@ advdate <- function(weekonemonday,
 
 #if(TRUE){
 #  
-#  dayone <- as.Date("2022-01-10")
+#  dayone <- as.Date("2025-01-13")
 #  startweek <- "Friday"
 #} else {
 
@@ -159,7 +159,7 @@ I, `r params$name`, agree to :
 
 ## SCHEDULE
 
-Note: This is an example schedule. You are welcomed and encouraged to rearrange these labs and events to fit your needs.
+
 
 - [ ] `r advdate(dayone, 1, topic)`
   - Finish Lab 1 by `r startweek`:  `r advdate(dayone, 1, assignment=startweek)`
