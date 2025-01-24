@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 23 2025
+January 24 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -30,7 +30,7 @@ I, Ben Waggener, agree to :
 - [ ] Module 01, 01/13 - 01/17 : What is Data Science and Meet the
   Toolkit
 
-  - Finish Lab 1 by Friday: 01/17
+  - Finish Lab 1 by Friday: 01/24
 
 - [ ] Module 02, 01/20 - 01/24 : Data and Visualization
 
@@ -53,7 +53,7 @@ I, Ben Waggener, agree to :
 
 - [ ] Module 06, 02/17 - 02/21 : Scientific studies and confounding
 
-  - Finish Lab 6 by Friday: 02/21
+  - Finish Lab 6 by Friday: 02/28
   - Schedule a check-in with Mason by Friday: 02/21
 
 - [ ] Module 07, 02/24 - 02/28 : Web scraping
