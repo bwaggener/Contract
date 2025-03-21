@@ -1,6 +1,6 @@
 Revised Grading Contract
 ================
-March 13 2025
+March 21 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
